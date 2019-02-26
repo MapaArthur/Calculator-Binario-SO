@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="TI_AED_LABAED_Forms.Calculadora">
+    <Position X="0.5" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAEAAgAAAAAAAAABIAAAAAAAEgAAAABEAA=</HashCode>
+      <FileName>Calculadora.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_AED_LABAED_Forms.Database">
+    <Position X="4.5" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_AED_LABAED_Forms.FormCalculator">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBJ0BIDAQSAAIAAAwGCACEAOJsAABACAFCEQAVMBUBI=</HashCode>
+      <FileName>FormCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_AED_LABAED_Forms.Program" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_AED_LABAED_Forms.Numero">
+    <Position X="1" Y="4" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAQEgAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Numero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TI_AED_LABAED_Forms.SimboloOperacional">
+    <Position X="4.75" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIBAAACAAAAAAAQEgAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>SimboloOperacional.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

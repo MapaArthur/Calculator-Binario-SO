@@ -1,0 +1,43 @@
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\TI_AED_LABAED_Forms.exe.config
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.csprojResolveAssemblyReference.cache
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.Properties.Resources.resources
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.csproj.GenerateResource.Cache
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.FormCalculator.resources
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\TI_AED_LABAED_Forms.exe
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\TI_AED_LABAED_Forms.pdb
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\MetroFramework.Design.dll
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\MetroFramework.dll
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\StackLibrary.dll
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.exe
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.pdb
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.csprojResolveAssemblyReference.cache
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.FormCalculator.resources
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.Properties.Resources.resources
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.csproj.GenerateResource.Cache
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.csproj.CoreCompileInputs.cache
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.exe
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\TI_AED_LABAED_Forms.exe.config
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\TI_AED_LABAED_Forms.exe
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\TI_AED_LABAED_Forms.pdb
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\MetroFramework.Design.dll
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\MetroFramework.dll
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\MetroFramework.Fonts.dll
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\StackLibrary.dll
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\StackLibrary.pdb
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.pdb
+C:\Users\1078262\Downloads\P2_Kayo Patrick Ferreira Gamas\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\TI_AED_LABAED_Forms.exe.config
+C:\Users\1078262\Downloads\P2_Kayo Patrick Ferreira Gamas\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\TI_AED_LABAED_Forms.exe
+C:\Users\1078262\Downloads\P2_Kayo Patrick Ferreira Gamas\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\TI_AED_LABAED_Forms.pdb
+C:\Users\1078262\Downloads\P2_Kayo Patrick Ferreira Gamas\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\MetroFramework.Design.dll
+C:\Users\1078262\Downloads\P2_Kayo Patrick Ferreira Gamas\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\MetroFramework.dll
+C:\Users\1078262\Downloads\P2_Kayo Patrick Ferreira Gamas\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\1078262\Downloads\P2_Kayo Patrick Ferreira Gamas\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\StackLibrary.dll
+C:\Users\1078262\Downloads\P2_Kayo Patrick Ferreira Gamas\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\bin\Debug\StackLibrary.pdb
+C:\Users\1078262\Downloads\P2_Kayo Patrick Ferreira Gamas\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.csprojResolveAssemblyReference.cache
+C:\Users\1078262\Downloads\P2_Kayo Patrick Ferreira Gamas\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.FormCalculator.resources
+C:\Users\1078262\Downloads\P2_Kayo Patrick Ferreira Gamas\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.Properties.Resources.resources
+C:\Users\1078262\Downloads\P2_Kayo Patrick Ferreira Gamas\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.csproj.GenerateResource.Cache
+C:\Users\1078262\Downloads\P2_Kayo Patrick Ferreira Gamas\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.csproj.CoreCompileInputs.cache
+C:\Users\1078262\Downloads\P2_Kayo Patrick Ferreira Gamas\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.exe
+C:\Users\1078262\Downloads\P2_Kayo Patrick Ferreira Gamas\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\obj\Debug\TI_AED_LABAED_Forms.pdb

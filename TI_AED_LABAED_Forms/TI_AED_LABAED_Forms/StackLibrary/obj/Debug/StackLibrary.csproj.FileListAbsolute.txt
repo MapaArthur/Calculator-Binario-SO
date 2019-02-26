@@ -1,0 +1,10 @@
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\StackLibrary\bin\Debug\StackLibrary.dll
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\StackLibrary\bin\Debug\StackLibrary.pdb
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\StackLibrary\obj\Debug\StackLibrary.dll
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\StackLibrary\obj\Debug\StackLibrary.pdb
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\StackLibrary\bin\Debug\StackLibrary.dll
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\StackLibrary\bin\Debug\StackLibrary.pdb
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\StackLibrary\obj\Debug\StackLibrary.csproj.CoreCompileInputs.cache
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\StackLibrary\obj\Debug\StackLibrary.dll
+D:\Users\Kayo Gamas\Downloads\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\StackLibrary\obj\Debug\StackLibrary.pdb
+C:\Users\1078262\Source\Repos\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\TI_AED_LABAED_Forms\StackLibrary\obj\Debug\StackLibrary.csproj.CoreCompileInputs.cache
